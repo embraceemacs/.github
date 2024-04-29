@@ -1,12 +1,32 @@
-## Hi there 👋
+```
+         ___________      ___.                             ___________                             
+         \_   _____/ _____\_ |______________    ____  ____ \_   _____/ _____ _____    ____   ______
+          |    __)_ /     \| __ \_  __ \__  \ _/ ___\/ __ \ |    __)_ /     \\__  \ _/ ___\ /  ___/
+          |        \  Y Y  \ \_\ \  | \// __ \\  \__\  ___/ |        \  Y Y  \/ __ \\  \___ \___ \ 
+         /_______  /__|_|  /___  /__|  (____  /\___  >___  >_______  /__|_|  (____  /\___  >____  >
+                 \/      \/    \/           \/     \/    \/        \/      \/     \/     \/     \/ 
 
-<!--
+```
+<div align="center">
 
-**Here are some ideas to get you started:**
+## Community Statement:
+</div>
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Senkowo and I will write later
+
+
+##
+
+<div align="center">
+  
+## What we're working on!
+</div>
+
+Here we will make a list of hyperlinks to our working project repos + descriptions
+
+## 
+
+## Community Members
+Message to prompt people to go and check out our members wonderful profiles and their personal projects
+
+
