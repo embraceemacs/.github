@@ -1,0 +1,22 @@
+name: Update README
+on:
+  schedule:
+    - cron: "0 * * * *"
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+      - name: Run script to update README
+        run: |
+          # Add commands to run your script here
+          python update_readme.py  # Or the command to run your script
+      - name: Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add .
+          git commit -m "Update README with user icons"
+          git push
