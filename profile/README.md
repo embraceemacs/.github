@@ -33,8 +33,6 @@ Message to prompt people to go and check out our members wonderful profiles and 
   <img src="https://contrib.rocks/image?repo=embraceemacs/emacs-wiki" />
 </a>
 
-<a href="https://github.com/embraceemacs/.github/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=embraceemacs/.github" />
-</a>
+
 
 
